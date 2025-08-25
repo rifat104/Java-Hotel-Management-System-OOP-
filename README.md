@@ -17,7 +17,7 @@ This project is console-based and focuses on core Java concepts without any exte
 
 🏠 Room Allocation – Assign rooms to customers
 
-💾 Data Handling – Simple file-based storage (if implemented)
+💾 Data Handling – Simple file-based storage
 
 
 
